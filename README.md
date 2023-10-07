@@ -1,9 +1,12 @@
 # 🎯 Looking for a new perm challenge.
 
-I would love to help a US ad agency setup and run an AI department.
-Or supercharge an AI company's marketing with 20+ years of international expertise.
+😍 I would love to help a US ad agency setup and run an AI department.
+
+⚡️ Or supercharge an AI company's marketing with 20+ years of international expertise.
 
 💪🏻 I’m working on my Data Science certification – until 28th of November 2023.
+
+📊 Enjoy an overview of my business skills and former projects: www.EliasKouloures.com
 
 📫 You can email me via: Elias.Kouloures@gmail.com
 
