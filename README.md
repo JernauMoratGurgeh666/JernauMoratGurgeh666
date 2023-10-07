@@ -11,7 +11,10 @@
 
 💪🏻 I’m working on my Data Science certification – until 28th of November 2023.
 
-🎯 I’m looking for a new perm challenge in a US ad agency that wants to setup/run an AI department or a high-tech/AI company that wants to supercharge its marketing.
+# 🎯 Looking for a new perm challenge.
+
+I would love to help a US ad agency setup and run an AI department.
+Or supercharge an AI company's marketing with 20+ years of international expertise.
 
 📫 You can email me via: Elias.Kouloures@gmail.com
 
