@@ -10,7 +10,7 @@
 
 <br>
 
-# How I present Creative Data Science
+# 🔬 Creative Data Science Presentations
 
 🏠 My 1st Coding Bootcamp challenge – Help a single lady find new and safe home: <br>
 https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI
@@ -22,9 +22,9 @@ https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activ
 
 <br>
 
-# My Business Website
+# 💰 Business Website
 
-📊 See my AI LLM prompts, marketing projects, skills, recommendations & CV: www.EliasKouloures.com
+📊 AI LLM prompts, marketing projects, skills, recommendations & CV: www.EliasKouloures.com
 
 📫 Email me: Elias.Kouloures@gmail.com
 
