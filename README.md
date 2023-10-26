@@ -12,10 +12,10 @@
 
 # 🔬 Creative Data Science Presentations
 
-🏠 My 1st Coding Bootcamp challenge: [Help a lady find new & safe home](www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
+🏠 My 1st Coding Bootcamp challenge (1 person, 2 days): [Help a lady find new & safe home](www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
 
-🦁 My 2nd Coding Bootcamp challenge: [Boost Tanzania's Tourism](www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
+🦁 My 2nd Coding Bootcamp challenge (1 person, 4.5 days): [Boost Tanzania's Tourism](www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
 
 <br>
 
