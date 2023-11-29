@@ -16,7 +16,7 @@
 
 ## 🤖 Job A.I.ssistant – a LLM+RAG Enterprise Solution (1 person, 15 days): 
 
-[Keynote Charts on my portoflio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/creative-data-science-enterprise-llm-rag)
+[Keynote Charts on my portfolio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/creative-data-science-enterprise-llm-rag)
 
 <br>
 
@@ -25,7 +25,7 @@
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
 
-[Keynote Charts on my portoflio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/tanzania-tourism-creative-data-science-solutions)
+[Keynote Charts on my portfolio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/tanzania-tourism-creative-data-science-solutions)
 
 <br>
 
@@ -33,7 +33,7 @@
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
-[Keynote Charts on my portoflio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/seattle-real-estate-data-science)
+[Keynote Charts on my portfolio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/seattle-real-estate-data-science)
 
 <br>
 
