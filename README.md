@@ -4,18 +4,36 @@
 
 ⚡️ I'd love to supercharge an AI company's marketing with 20+ years of international expertise.
 
-😍 Or help an Ad agency setup and run a Generative AI department.
+😍 Or help an Ad agency set up, run and/or optimise a Generative AI department.
 
-💪🏻 I’m working on my Data Science certification – until 28th of November 2023.
+💪🏻 I also offer 30+ years of IT & WWW experience, which I upgraded with AI & Data Science knowhow.
 
 <br>
 
 # 🔬 Creative Data Science Presentations
 
-🏠 My 1st Coding Bootcamp challenge (1 person, 2 days): [Help a lady find new & safe home](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
+<br>
+
+## 🤖 Job A.I.ssistant – a LLM+RAG Enterprise Solution (1 person, 15 days): 
+
+[Keynote Charts on my portoflio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/creative-data-science-enterprise-llm-rag)
+
+<br>
 
 
-🦁 My 2nd Coding Bootcamp challenge (1 person, 4.5 days): [Boost Tanzania's Tourism](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
+## 🦁 Boost Tanzania's Tourism (1 person, 4.5 days): 
+
+[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
+
+[Keynote Charts on my portoflio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/tanzania-tourism-creative-data-science-solutions)
+
+<br>
+
+## 🏠 Help single Lady find new & safe Home (1 person, 2 days): 
+
+[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
+
+[Keynote Charts on my portoflio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/seattle-real-estate-data-science)
 
 <br>
 
