@@ -14,14 +14,14 @@
 
 <br>
 
-## 🤖 Job A.I.ssistant – a LLM+RAG Enterprise Solution (1 person, 15 days): 
+## 🤖 Job A.I.ssistant – a LLM+RAG Enterprise Solution (1 person, 15 days)
 
 [Keynote Charts on my portfolio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/creative-data-science-enterprise-llm-rag)
 
 <br>
 
 
-## 🦁 Boost Tanzania's Tourism (1 person, 4.5 days): 
+## 🦁 Boost Tanzania's Tourism (1 person, 4.5 days)
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
 
@@ -29,7 +29,7 @@
 
 <br>
 
-## 🏠 Help single Lady find new & safe Home (1 person, 2 days): 
+## 🏠 Help single Lady find new & safe Home (1 person, 2 days)
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
