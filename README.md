@@ -1,12 +1,24 @@
 <br>
 
-# 🎯 Looking for a new Perm Challenge
+# 🎯 Craving difficult Strategy, Marketing & Business Challenges
 
-⚡️ I'd love to supercharge an AI company's marketing with 20+ years of international expertise.
+🚀 Innovative Creative Director with 20+ years of international experience, blending AI expertise and marketing prowess. 
 
-😍 Or help an Ad agency set up, run and/or optimise a Generative AI department.
+🦾 Architected AI-powered chatbots, boosting sales by 30%. 
 
-💪🏻 I also offer 30+ years of IT & WWW experience, which I upgraded with AI & Data Science knowhow.
+👏🏼 Delivered impactful AI Masterclasses, improving comprehension by 40%. 
+
+🦅 Spearheaded 100+ keynotes on AI and creative tech strategies. 
+
+🛠️ Engineered open-source LLM+RAG systems, reducing content creation time by 50%. 
+
+💰 Managed €120M budgets, increasing ROI by 25%. 
+
+🏆 Achieved 75% pitch success rate for global brands. 
+
+🧭 Excels in crisis management, data-driven marketing, and rapid tech adoption. 
+
+🧠 Combines analytical thinking with creative problem-solving to drive transformative results in AI-integrated marketing landscapes.
 
 <br>
 
@@ -14,11 +26,27 @@
 
 <br>
 
+## ⚡️ Supercharge Your Sales Staff with AI Chatbot & Features (LLM + RAG – 2 people, 8 days)
+
+[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_how-to-update-tens-of-thousands-of-b2c-salespeople-activity-7218924894544138240-kN9B)
+
+[Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_273c149fbc1d4f57b93e36d6fd04c887.pdf?index=true)
+
+<br>
+
+## 🎓 Upgrade AI Literacy of Your Org with AI Keynotes & new Use-Cases (1 person, 10 days)
+
+[Presentation video on LinkedIn](https://youtu.be/vywsZvZQAek?si=WVSVBaqHzL1wyTb4)
+
+[Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_6fcde108cd644121a4e7b73d343c16ff.pdf)
+
+<br>
+
 ## 🤖 Job A.I.ssistant – a LLM+RAG Enterprise Solution (1 person, 15 days)
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_my-final-data-science-capstone-project-for-activity-7135598278053703681-8SjK)
 
-[Keynote Charts on portfolio website – incl. more creative use cases](https://www.eliaskouloures.com/portfolio-collections/portfolio/creative-data-science-enterprise-llm-rag)
+[Keynote as PDF – incl. more creative use cases](https://www.eliaskouloures.com/_files/ugd/3be268_8b2ef102e2cc46698dec62be95359654.pdf)
 
 <br>
 
@@ -27,7 +55,7 @@
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
 
-[Keynote Charts on portfolio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/tanzania-tourism-creative-data-science-solutions)
+[Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_52b762e1605647368ef79c8f85b5a532.pdf)
 
 <br>
 
@@ -35,7 +63,7 @@
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
-[Keynote Charts on portfolio website](https://www.eliaskouloures.com/portfolio-collections/portfolio/seattle-real-estate-data-science)
+[Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_b0c73804090c46a2b89391fdb5736862.pdf)
 
 <br>
 
