@@ -22,7 +22,7 @@
 
 <br>
 
-# 🔬 Creative Data Science Presentations
+# 🔬 Creative AI, LLM & Data Science Projects
 
 <br>
 
