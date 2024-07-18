@@ -57,7 +57,7 @@
 <br>
 
 
-## 🦁 How to Boost Tanzania's Tourism (1 person, 4.5 days)
+## 🦁 Model Tanzania's Tourism data to create 28 new Marketing Ideas (1 person, 4.5 days)
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
 
@@ -67,7 +67,7 @@
 
 <br>
 
-## 🏠 Help single Lady find new & safe Home (1 person, 2 days)
+## 🏠 Filter the Top 3 Real-Estates from 21k Seattle listings (1 person, 2 days)
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
