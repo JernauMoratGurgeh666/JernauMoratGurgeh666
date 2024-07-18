@@ -30,6 +30,8 @@
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_how-to-update-tens-of-thousands-of-b2c-salespeople-activity-7218924894544138240-kN9B)
 
+[Presentation video on YouTube](https://youtu.be/CnsJXhhgHis)
+
 [Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_273c149fbc1d4f57b93e36d6fd04c887.pdf?index=true)
 
 <br>
@@ -38,22 +40,28 @@
 
 [Presentation video on LinkedIn](https://youtu.be/vywsZvZQAek?si=WVSVBaqHzL1wyTb4)
 
+[Presentation video on YouTube](https://youtu.be/vywsZvZQAek)
+
 [Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_6fcde108cd644121a4e7b73d343c16ff.pdf)
 
 <br>
 
-## 🤖 Job A.I.ssistant – a LLM+RAG Enterprise Solution (1 person, 15 days)
+## 🤖 Job A.I.ssistant – Your open-source LLM+RAG Enterprise Solution (1 person, 15 days)
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_my-final-data-science-capstone-project-for-activity-7135598278053703681-8SjK)
+
+[Presentation video on YouTube](https://youtu.be/Y-4NksfDIVE)
 
 [Keynote as PDF – incl. more creative use cases](https://www.eliaskouloures.com/_files/ugd/3be268_8b2ef102e2cc46698dec62be95359654.pdf)
 
 <br>
 
 
-## 🦁 Boost Tanzania's Tourism (1 person, 4.5 days)
+## 🦁 How to Boost Tanzania's Tourism (1 person, 4.5 days)
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
+
+[Presentation video on YouTube](https://youtu.be/Qah8ZFPDC9E)
 
 [Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_52b762e1605647368ef79c8f85b5a532.pdf)
 
@@ -63,17 +71,21 @@
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
+[Presentation video on YouTube](https://youtu.be/o0iqc66nscs)
+
 [Keynote as PDF](https://www.eliaskouloures.com/_files/ugd/3be268_b0c73804090c46a2b89391fdb5736862.pdf)
 
 <br>
 
-# 💰 Business Website
+# 🏡 Homezone
 
-📊 AI LLM prompts, marketing projects, skills, recommendations & CV: www.EliasKouloures.com
+[📊 Business Portfolio with AI, LLM, creative, marketing, GTM & 360° projects, skills, recommendations & CV](www.EliasKouloures.com)
 
-📫 Email me: Elias.Kouloures@gmail.com
+[🧭 How I create Briefings & Creative Marketing Strategies](https://docs.google.com/presentation/d/1CQN2d20Ke9BZk8dCDSjigA5Aj2QU43bygr1Sl1f2hCQ/edit#slide=id.p)
 
-📞 Call or text me: +491602448800
+[📫 Email me](Elias.Kouloures@gmail.com)
+
+[🧑🏼‍💻Book a free Video Call via Calendly](https://calendly.com/elias-kouloures/video-call)
 
 <br>
 
