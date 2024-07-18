@@ -79,13 +79,13 @@
 
 # 🏡 Homezone
 
-[📊 Business Portfolio with AI, LLM, creative, marketing, GTM & 360° projects, skills, recommendations & CV](www.EliasKouloures.com)
+📊 [Business Portfolio with AI, LLM, creative, marketing, GTM & 360° projects, skills, recommendations & CV](www.EliasKouloures.com)
 
-[🧭 How I create Briefings & Creative Marketing Strategies](https://docs.google.com/presentation/d/1CQN2d20Ke9BZk8dCDSjigA5Aj2QU43bygr1Sl1f2hCQ/edit#slide=id.p)
+🧭 [How I create Marketing Briefs & Creative Strategies](https://docs.google.com/presentation/d/1CQN2d20Ke9BZk8dCDSjigA5Aj2QU43bygr1Sl1f2hCQ/edit#slide=id.p)
 
-[📫 Email me](Elias.Kouloures@gmail.com)
+📫 [Email me](mailto:Elias.Kouloures@gmail.com)
 
-[🧑🏼‍💻Book a free Video Call via Calendly](https://calendly.com/elias-kouloures/video-call)
+🧑🏼‍💻 [Book a free Video Call via Calendly](https://calendly.com/elias-kouloures/video-call)
 
 <br>
 
