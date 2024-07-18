@@ -1,6 +1,6 @@
 <br>
 
-# 🎯 Craving difficult Strategy, Marketing & Business Challenges
+# 🎯 Craving Strategy, Marketing & Business Challenges
 
 🚀 Innovative Creative Director with 20+ years of international experience, blending AI expertise and marketing prowess. 
 
