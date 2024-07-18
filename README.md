@@ -8,7 +8,7 @@
 
 👏🏼 Delivered impactful AI Masterclasses, improving comprehension by 40%. 
 
-🦅 Spearheaded 100+ keynotes on AI and creative tech strategies. 
+🦅 Spearheaded 80+ keynotes on AI and creative tech strategies. 
 
 🛠️ Engineered open-source LLM+RAG systems, reducing content creation time by 50%. 
 
