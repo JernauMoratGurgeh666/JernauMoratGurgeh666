@@ -1,24 +1,20 @@
 <br>
 
-# 🎯 Craving Strategy, Marketing & Business Challenges
+# 🎯 Let me help you Future-Proof your Business
 
-🚀 Innovative Creative Director with 20+ years of international experience, blending AI expertise and marketing prowess. 
+🏆 Award-winning marketing maverick with 20+ years of international experience, leveraging cutting-edge AI & creative strategies to drive business transformation. 
 
-🦾 Architected AI-powered chatbots, boosting sales by 30%. 
+🚀 Uniquely combining the precision of a data scientist with the imagination of a world-class creative director, I've orchestrated 360° campaigns for 100+ global brands with up to €120M budgets, consistently delivering 25-40% improvements in ROI, brand awareness & ops efficiency. 
 
-👏🏼 Delivered impactful AI Masterclasses, improving comprehension by 40%. 
+🧠 My rare blend of high-functioning Asperger's & ADHD fuels unparalleled problem-solving capabilities, allowing me to "think like a bot" while maintaining a deeply human understanding of narratives. 
 
-🦅 Spearheaded 80+ keynotes on AI and creative tech strategies. 
+🤖 From deploying AI chatbots to engineering LLM+RAG systems, I bridge the gap between creativity & technology, positioning your company at the forefront of the AI revolution.
 
-🛠️ Engineered open-source LLM+RAG systems, reducing content creation time by 50%. 
+🦅 Spearheaded 80+ keynotes on creativity, tech & AI with up to 7 hour Masterclasses for 30+ ppl.
 
-💰 Managed €120M budgets, increasing ROI by 25%. 
-
-🏆 Achieved 75% pitch success rate for global brands. 
+💰 Achieved 75% pitch success rate for global brands. 
 
 🧭 Excels in crisis management, data-driven marketing, and rapid tech adoption. 
-
-🧠 Combines analytical thinking with creative problem-solving to drive transformative results in AI-integrated marketing landscapes.
 
 <br>
 
