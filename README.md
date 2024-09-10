@@ -2,19 +2,13 @@
 
 # 🎯 Let me help you Future-Proof your Business
 
-🏆 Award-winning marketing maverick with 20+ years of international experience, leveraging cutting-edge AI & creative strategies to drive business transformation. 
+🏆 Award-winning, neurodiverse AI innovator and marketing polymath with 20+ years of international experience.
 
-🚀 Uniquely combining the precision of a data scientist with the imagination of a world-class creative director, I've orchestrated 360° campaigns for 100+ global brands with up to €120M budgets, consistently delivering 25-40% improvements in ROI, brand awareness & ops efficiency. 
+🧠 Leveraging a unique Asperger's-ADHD blend, my multidisciplinary approach bridges the gap between cutting-edge AI research and practical business applications, fostering innovation that aligns technology with human potential.
 
-🧠 My rare blend of high-functioning Asperger's & ADHD fuels unparalleled problem-solving capabilities, allowing me to "think like a bot" while maintaining a deeply human understanding of narratives. 
+🚀 My expertise spans ideation and integration of AI solutions and award-winning 360° marketing campaigns for 100+ global brands, consistently delivering double-digit improvements in ROI, ops efficiency, and brand awareness.
 
-🤖 From deploying AI chatbots to engineering LLM+RAG systems, I bridge the gap between creativity & technology, positioning your company at the forefront of the AI revolution.
-
-🦅 Spearheaded 80+ keynotes on creativity, tech & AI with up to 7 hour Masterclasses for 30+ ppl.
-
-💰 Achieved 75% pitch success rate for global brands. 
-
-🧭 Excels in crisis management, data-driven marketing, and rapid tech adoption. 
+🤖 I empower you to accelerate AI adoption, navigate complex regulatory landscapes, and position your brand at the forefront of our AI revolution – all while maintaining a deeply human-centric approach to innovation.​​
 
 <br>
 
