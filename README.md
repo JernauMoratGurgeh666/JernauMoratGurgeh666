@@ -1,14 +1,22 @@
 <br>
 
-# 🎯 Let me help you Future-Proof your Business
+# Upgrade Your Org & ROI with 360° AI Consulting & 1st Principles
 
-🏆 Award-winning, neurodiverse AI innovator and marketing polymath with 20+ years of international experience.
 
-🧠 Leveraging a unique Asperger's-ADHD blend, my multidisciplinary approach bridges the gap between cutting-edge AI research and practical business applications, fostering innovation that aligns technology with human potential.
+🇺🇸
+I bring the unique synthesis of human creativity & machine intelligence. With decades of tech & WWW experience, data science expertise & my Bachelor of Science in Marketing & Communications, I bridge the gap between AI capabilities & business objectives.
 
-🚀 My expertise spans ideation and integration of AI solutions and award-winning 360° marketing campaigns for 100+ global brands, consistently delivering double-digit improvements in ROI, ops efficiency, and brand awareness.
+My neurodivergence & 20+ years of Ad agency training, empower me to find creative AI solutions to complex challenges even seasoned Computer Science experts & AI Professors can’t, because "I think like a bot“ who’s also a Copywriter, Creative Director & Business Strategist.
 
-🤖 I empower you to accelerate AI adoption, navigate complex regulatory landscapes, and position your brand at the forefront of our AI revolution – all while maintaining a deeply human-centric approach to innovation.​​
+I deeply believe in first-principles, design for X & obsessive attention to detail, which makes me uniquely suited to optimize AI systems for real-world applications.
+
+
+🇩🇪
+Ich biete die einzigartige Synthese aus menschlicher Kreativität & maschineller Intelligenz. Mit Jahrzehnten IT- & WWW-Erfahrung, Data Science-Fachwissen & meinem Bachelor of Science in Marketing & Kommunikation vereine ich KI-Fähigkeiten, deren Fokus auf Business-Zielen liegt.
+
+Meine Neurodivergenz & 20+ Jahre Werbeagentur-Training befähigen mich, kreative KI-Lösungen für komplexe Herausforderungen zu finden, an denen selbst Informatik-Experten und KI-Professoren scheitern, weil „ich denke wie ein Bot“, der auch Werbetexter, Kreativdirektor & Geschäftsstratege ist.
+
+Ich glaube fest an First Principles, Design for X und obsessiver Detail-Liebe, was mich dafür prädestiniert, KI-Systeme für reale Anwendungen zu optimieren.
 
 <br>
 
