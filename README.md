@@ -77,7 +77,7 @@ Ich glaube fest an First Principles, Design for X und obsessiver Detail-Liebe, w
 
 # 🏡 Homezone
 
-📊 [Business Portfolio with AI, LLM, creative, marketing, GTM & 360° projects, skills, recommendations & CV](www.EliasKouloures.com)
+📊 [Business Portfolio with AI, LLM, creative, marketing, GTM & 360° projects, skills, recommendations & CV](https://www.EliasKouloures.com)
 
 🧭 [How I create Marketing Briefs & Creative Strategies](https://docs.google.com/presentation/d/1CQN2d20Ke9BZk8dCDSjigA5Aj2QU43bygr1Sl1f2hCQ/edit#slide=id.p)
 
