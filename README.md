@@ -3,20 +3,8 @@
 # Upgrade Your Org & ROI with 360° AI Consulting & 1st Principles
 
 
-🇺🇸
-I bring the unique synthesis of human creativity & machine intelligence. With decades of tech & WWW experience, data science expertise & my Bachelor of Science in Marketing & Communications, I bridge the gap between AI capabilities & business objectives.
+I love utilising AI with my 20+ years of expertise in 8 domains to create obsessively detailed analytics, razor-sharp brand differentiations & sniper-focussed creative concepts that eliminate pain-points, supercharge organisations & skyrocket ROIs.
 
-My neurodivergence & 20+ years of Ad agency training, empower me to find creative AI solutions to complex challenges even seasoned Computer Science experts & AI Professors can’t, because "I think like a bot“ who’s also a Copywriter, Creative Director & Business Strategist.
-
-I deeply believe in first-principles, design for X & obsessive attention to detail, which makes me uniquely suited to optimize AI systems for real-world applications.
-
-
-🇩🇪
-Ich biete die einzigartige Synthese aus menschlicher Kreativität & maschineller Intelligenz. Mit Jahrzehnten IT- & WWW-Erfahrung, Data Science-Fachwissen & meinem Bachelor of Science in Marketing & Kommunikation vereine ich KI-Fähigkeiten, deren Fokus auf Business-Zielen liegt.
-
-Meine Neurodivergenz & 20+ Jahre Werbeagentur-Training befähigen mich, kreative KI-Lösungen für komplexe Herausforderungen zu finden, an denen selbst Informatik-Experten und KI-Professoren scheitern, weil „ich denke wie ein Bot“, der auch Werbetexter, Kreativdirektor & Geschäftsstratege ist.
-
-Ich glaube fest an First Principles, Design for X und obsessiver Detail-Liebe, was mich dafür prädestiniert, KI-Systeme für reale Anwendungen zu optimieren.
 
 <br>
 
@@ -24,7 +12,27 @@ Ich glaube fest an First Principles, Design for X und obsessiver Detail-Liebe, w
 
 <br>
 
-## ⚡️ Supercharge Your Sales Staff with AI Chatbot & Features (LLM + RAG – 2 people, 8 days)
+## 🚀 AI Masterclass: 600 Sources analysed, 40 Moats created & 6 Campaigns developed – in 2 days
+
+[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_deutschetelekom-telekom-consulting-activity-7287401075983183874-xMaE)
+
+[Presentation video on YouTube](https://youtu.be/eb0mPzH4l-s)
+
+[Keynote on Gamma](https://gamma.app/docs/Telekom-MMS-cyzeu6uz23i4s4p?mode=doc)
+
+<br>
+
+## 🗳️ How to reinvent the concept of Democracy for our 21st century Challgendes
+
+[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_innovation-ai-governance-activity-7260638207891922944-6Rjb)
+
+[Presentation video on YouTube](https://youtu.be/Tiqm_VhpGF8?si=LVAqRKvbihG1C_qK)
+
+[Keynote on Gamma](https://gamma.app/docs/Superintelligent-Democracy--4s1wqf73zaj05ti)
+
+<br>
+
+## ⚡️ Supercharge Your Sales Staff with AI Chatbot & Features
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_how-to-update-tens-of-thousands-of-b2c-salespeople-activity-7218924894544138240-kN9B)
 
@@ -55,7 +63,7 @@ Ich glaube fest an First Principles, Design for X und obsessiver Detail-Liebe, w
 <br>
 
 
-## 🦁 Model Tanzania's Tourism data to create 28 new Marketing Ideas (1 person, 4.5 days)
+## 🦁 Model Tanzania's Tourism data to create 28 new insight-driven marketing concepts
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
 
@@ -65,7 +73,7 @@ Ich glaube fest an First Principles, Design for X und obsessiver Detail-Liebe, w
 
 <br>
 
-## 🏠 Filter the Top 3 Real-Estates from 21k Seattle listings (1 person, 2 days)
+## 🏠 Filter the Top 3 Real-Estates from 21k Seattle listings
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
