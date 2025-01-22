@@ -4,7 +4,7 @@
 
 I love utilising AI with my 20+ years of expertise in 8 domains to create obsessively detailed analytics, razor-sharp brand differentiations & sniper-focussed creative concepts that eliminate pain-points, supercharge organisations & skyrocket ROIs.
 
-I also spend every free hour experimenting with AI & especially LLMs on what new features are possible to create, e.g. check out my 2 favourite and IMHO most impressing GPTs I created, which I regularly get congratulatory messages from happy users:
+I also spend every free hour experimenting with AI & especially LLMs on what new features are possible to create, e.g. check out my 2 favourite and IMHO most impressive GPTs, for which I regularly receive congratulatory messages from happy users:
 
 ## a) Adverstising Assistant – GPT
 
