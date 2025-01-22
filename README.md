@@ -22,7 +22,7 @@ I love utilising AI with my 20+ years of expertise in 8 domains to create obsess
 
 <br>
 
-## 🗳️ How to reinvent the concept of Democracy for our 21st century Challgendes
+## 🗳️ Superintelligent Democracy: How to reinvent the public participation for our 21st century Challgenges
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_innovation-ai-governance-activity-7260638207891922944-6Rjb)
 
