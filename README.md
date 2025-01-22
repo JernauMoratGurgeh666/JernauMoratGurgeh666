@@ -14,7 +14,7 @@ I spend every free hour experimenting with AI & especially LLMs on what new feat
 
 <br>
 
-## 1st Principles & Design for X – GPT
+## 💰 1st Principles & Design for X – GPT
 
 It uses 1st Principles & Design for X – thinking to look at any business plan and offer you suggestions on how to cut costs by streamlining your operations. Simply tell it in your words, what you want to achieve, e.g. "Find the 10 biggest ROI opportunities – without laying off employees" or whatever your ideal goal is. 
 
@@ -30,7 +30,7 @@ Try is here for free (ChatGPT account required): [1st Principles & Design for X 
 
 <br>
 
-## Advertising Assistant – GPT
+## 🪄 Advertising Assistant – GPT
 
 It uses over 300 of the best Marketing Campaigns (aka Cannes Lions Winners of 2024) as "few-shot examples" to enable every user to create world-class, goal-focused & effective 360° promos in seconds.
 
