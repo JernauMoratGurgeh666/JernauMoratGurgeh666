@@ -22,7 +22,17 @@ I love utilising AI with my 20+ years of expertise in 8 domains to create obsess
 
 <br>
 
-## 🗳️ Superintelligent Democracy: How to reinvent the public participation for our 21st century Challgenges
+## AI Cost-Cutting Officer: How LLMs can optimise any Business Plan with 1st Principles & Design for X
+
+[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_feeling-the-pressure-to-cut-costs-but-activity-7264540459153195008-LbPQ)
+
+[Presentation video on YouTube](https://youtu.be/p886ct3Glek)
+
+[1st-Principles & Design for X – GPT](https://chatgpt.com/g/g-67357840ea288190a035d2b559560e16-1st-principles-design-for-x-gpt)
+
+<br>
+
+## 🗳️ Superintelligent Democracy: How to reinvent Public Participation for 21st Century Challenges
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_innovation-ai-governance-activity-7260638207891922944-6Rjb)
 
@@ -42,7 +52,7 @@ I love utilising AI with my 20+ years of expertise in 8 domains to create obsess
 
 <br>
 
-## 🎓 Upgrade AI Literacy of Your Org with AI Keynotes & new Use-Cases (1 person, 10 days)
+## 🎓 Upgrade AI Literacy of Your Org with AI Keynotes & new Use-Cases
 
 [Presentation video on LinkedIn](https://youtu.be/vywsZvZQAek?si=WVSVBaqHzL1wyTb4)
 
@@ -52,7 +62,7 @@ I love utilising AI with my 20+ years of expertise in 8 domains to create obsess
 
 <br>
 
-## 🤖 Job A.I.ssistant – Your open-source LLM+RAG Enterprise Solution (1 person, 15 days)
+## 🤖 Job A.I.ssistant – Your open-source LLM+RAG Enterprise Solution
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_my-final-data-science-capstone-project-for-activity-7135598278053703681-8SjK)
 
