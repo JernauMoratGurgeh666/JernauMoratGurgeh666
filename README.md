@@ -16,9 +16,11 @@ I spend every free hour experimenting with AI & especially LLMs on what new feat
 
 ## 1st Principles & Design for X – GPT
 
-It uses 1st Principles & Design for X – thinking to look at any business plan and offer you suggestions on how to cut costs by streamlining your operations. Simple tell it in your words, what you try to achieve, e.g. "Find the 10 biggest ROI opportunities – without laying off employees" or whatever you aim for. 
+It uses 1st Principles & Design for X – thinking to look at any business plan and offer you suggestions on how to cut costs by streamlining your operations. Simply tell it in your words, what you want to achieve, e.g. "Find the 10 biggest ROI opportunities – without laying off employees" or whatever your ideal goal is. 
 
-If you're unsure about entrusting your personal business plan to ChatGPT, I suggest you download any annual report from any stock traded company, which have to publicise their numbers by law, and try experiementing with their PDF in my GPT. I even used it on the German governments annual budget plan and at first prompt my GPT offered me 10 suggestions that would have cut apx. 35 billion Euro by optimising it with 1st Principles & Design for X – approach.
+If you're unsure about entrusting your personal business plan to ChatGPT, I suggest you download any annual report from any stock traded company, which have to publicise their numbers by law, and try experiementing with their PDF in my GPT. 
+
+I even used it on the German governments annual budget plan and at first prompt my GPT offered me 10 suggestions that would have cut apx. 35 billion Euro by optimising it with 1st Principles & Design for X – approach.
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_feeling-the-pressure-to-cut-costs-but-activity-7264540459153195008-LbPQ)
 
