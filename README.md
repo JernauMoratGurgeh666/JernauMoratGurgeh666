@@ -4,24 +4,36 @@
 
 I love utilising AI with my 20+ years of expertise in 8 domains to create obsessively detailed analytics, razor-sharp brand differentiations & sniper-focussed creative concepts that eliminate pain-points, supercharge organisations & skyrocket ROIs.
 
-I also spend every free hour experimenting with AI & especially LLMs on what new features are possible to create, e.g. check out my 2 favourite and IMHO most impressive GPTs, for which I regularly receive congratulatory messages from happy users:
-
-## a) Advertising Assistant – GPT
-
-It uses over 300 of the best Marketing Campaigns (aka Cannes Lions Winners of 2024) as "few-shot examples" to enable every user to create world-class, goal-focused & effective 360° promos in seconds.
 
 
-Try is here for free (ChatGPT account required): [Advertising Assistant – GPT](https://chatgpt.com/g/g-PfmWwnlFg-advertising-assistant)
+<br>
 
-## b) 1st Principles & Design for X – GPT
+# 🔬 Creative AI, LLM & Data Science Projects
 
-It uses 1st Principles & Design for X – Thinking to look at any business plan and offer you suggestions on how to cut costs by streamlining your operations. Simple tell it in your words, what you try to achieve, e.g. "Find the 10 biggest ROI opportunities – without laying off employees" or whatever you aim for.
+I spend every free hour experimenting with AI & especially LLMs on what new features are possible to create, e.g. check out my 2 favourite and IMHO most impressive GPTs, for which I regularly receive congratulatory messages from happy users, and you can use for free.
+
+<br>
+
+## 1st Principles & Design for X – GPT
+
+It uses 1st Principles & Design for X – Thinking to look at any business plan and offer you suggestions on how to cut costs by streamlining your operations. Simple tell it in your words, what you try to achieve, e.g. "Find the 10 biggest ROI opportunities – without laying off employees" or whatever you aim for. 
+
+If you're unsure about entrusting your personal business plan to ChatGPT, I suggest you download any annual report from any stock traded company, which have to publicise their numbers by law, and try experiementing with their PDF in my GPT. I even used it on the German governments annual budget plan and at first prompt my GPT offered me 10 suggestions that would have cut apx. 35 billion Euro by optimising it with 1st Principles & Design for X – approach.
+
+[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_feeling-the-pressure-to-cut-costs-but-activity-7264540459153195008-LbPQ)
+
+[Presentation video on YouTube](https://youtu.be/p886ct3Glek)
 
 Try is here for free (ChatGPT account required): [1st Principles & Design for X – GPT](https://chatgpt.com/g/g-67357840ea288190a035d2b559560e16-1st-principles-design-for-x-gpt)
 
 <br>
 
-# 🔬 Creative AI, LLM & Data Science Projects
+## Advertising Assistant – GPT
+
+It uses over 300 of the best Marketing Campaigns (aka Cannes Lions Winners of 2024) as "few-shot examples" to enable every user to create world-class, goal-focused & effective 360° promos in seconds.
+
+Try is here for free (ChatGPT account required): [Advertising Assistant – GPT](https://chatgpt.com/g/g-PfmWwnlFg-advertising-assistant)
+
 
 <br>
 
@@ -33,15 +45,6 @@ Try is here for free (ChatGPT account required): [1st Principles & Design for X 
 
 [Keynote on Gamma](https://gamma.app/docs/Telekom-MMS-cyzeu6uz23i4s4p?mode=doc)
 
-<br>
-
-## AI Cost-Cutting Officer: How LLMs can optimise any Business Plan with 1st Principles & Design for X
-
-[Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_feeling-the-pressure-to-cut-costs-but-activity-7264540459153195008-LbPQ)
-
-[Presentation video on YouTube](https://youtu.be/p886ct3Glek)
-
-[1st-Principles & Design for X – GPT](https://chatgpt.com/g/g-67357840ea288190a035d2b559560e16-1st-principles-design-for-x-gpt)
 
 <br>
 
