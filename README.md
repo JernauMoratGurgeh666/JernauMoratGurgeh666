@@ -11,7 +11,7 @@ I also spend every free hour experimenting with AI & especially LLMs on what new
 It uses over 300 of the best Marketing Campaigns (aka Cannes Lions Winners of 2024) as "few-shot examples" to enable every user to create world-class, goal-focused & effective 360° promos in seconds.
 
 
-Try is here for free (ChatGPT account required): [Advertising Assistant – GPT])https://chatgpt.com/g/g-PfmWwnlFg-advertising-assistant)
+Try is here for free (ChatGPT account required): [Advertising Assistant – GPT](https://chatgpt.com/g/g-PfmWwnlFg-advertising-assistant)
 
 ## b) 1st Principles & Design for X – GPT
 
