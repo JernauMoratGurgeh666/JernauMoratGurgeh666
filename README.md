@@ -2,9 +2,22 @@
 
 # Upgrade Your Org & ROI with 360° AI Consulting & 1st Principles
 
-
 I love utilising AI with my 20+ years of expertise in 8 domains to create obsessively detailed analytics, razor-sharp brand differentiations & sniper-focussed creative concepts that eliminate pain-points, supercharge organisations & skyrocket ROIs.
 
+I also spend every free hour experimenting with AI & especially LLMs on what new features are possible to create, e.g. check out my 2 favourite and IMHO most impressing GPTs I created, which I regularly get congratulatory messages from happy users:
+
+## a) Adverstising Assistant – GPT
+
+It uses over 300 of the best Marketing Campaigns (aka Cannes Lions Winners of 2024) as "few-shot examples" to enable every user to create world-class, goal-focused & effective 360° promos in seconds.
+
+
+Try is here for free (ChatGPT account required): [Advertising Assistant – GPT])https://chatgpt.com/g/g-PfmWwnlFg-advertising-assistant)
+
+## b) 1st Principles & Design for X – GPT
+
+It uses 1st Principles & Design for X – Thinking to look at any business plan and offer you suggestions on how to cut costs by streamlining your operations. Simple tell it in your words, what you try to achieve, e.g. "Find the 10 biggest ROI opportunities – without laying off employees" or whatever you aim for.
+
+Try is here for free (ChatGPT account required): [1st-Principles & Design for X – GPT](https://chatgpt.com/g/g-67357840ea288190a035d2b559560e16-1st-principles-design-for-x-gpt)
 
 <br>
 
