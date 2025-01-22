@@ -60,7 +60,7 @@ Try is here for free (ChatGPT account required): [Advertising Assistant – GPT]
 
 <br>
 
-## ⚡️ Supercharge Your Sales Staff with AI Chatbot & Features
+## ⚡️ B2B RAG: Supercharge Your Sales Staff with AI Chatbot & Features
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_how-to-update-tens-of-thousands-of-b2c-salespeople-activity-7218924894544138240-kN9B)
 
@@ -70,7 +70,7 @@ Try is here for free (ChatGPT account required): [Advertising Assistant – GPT]
 
 <br>
 
-## 🎓 Upgrade AI Literacy of Your Org with AI Keynotes & new Use-Cases
+## 🎓 LLM Beginner Course: Upgrade AI Literacy of Your Org with AI Keynotes & new Use-Cases
 
 [Presentation video on LinkedIn](https://youtu.be/vywsZvZQAek?si=WVSVBaqHzL1wyTb4)
 
@@ -80,7 +80,7 @@ Try is here for free (ChatGPT account required): [Advertising Assistant – GPT]
 
 <br>
 
-## 🤖 Job A.I.ssistant – Your open-source LLM+RAG Enterprise Solution
+## 🤖 Creative Marketing RAG: Job A.I.ssistant – Your open-source LLM Enterprise Solution
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_my-final-data-science-capstone-project-for-activity-7135598278053703681-8SjK)
 
@@ -91,7 +91,7 @@ Try is here for free (ChatGPT account required): [Advertising Assistant – GPT]
 <br>
 
 
-## 🦁 Model Tanzania's Tourism data to create 28 new insight-driven marketing concepts
+## 🦁 Data Science: Modelling Tanzania's Tourism Data to create 28 new insight-driven Marketing Concepts
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_tanzania-tourism-datascience-activity-7120355344614047745-J1DT)
 
@@ -101,7 +101,7 @@ Try is here for free (ChatGPT account required): [Advertising Assistant – GPT]
 
 <br>
 
-## 🏠 Filter the Top 3 Real-Estates from 21k Seattle listings
+## 🏠 Data Analysics: Find the Top 10 Homes from 21k Seattle Real-Estates
 
 [Presentation video on LinkedIn](https://www.linkedin.com/posts/eliaskouloures_python-sql-matlib-activity-7112382812913025025-TaXI)
 
@@ -111,7 +111,7 @@ Try is here for free (ChatGPT account required): [Advertising Assistant – GPT]
 
 <br>
 
-# 🏡 Homezone
+# 🌎 Homezone
 
 📊 [Business Portfolio with AI, LLM, creative, marketing, GTM & 360° projects, skills, recommendations & CV](https://www.EliasKouloures.com)
 
