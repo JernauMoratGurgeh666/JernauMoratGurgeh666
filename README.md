@@ -6,7 +6,7 @@ I love utilising AI with my 20+ years of expertise in 8 domains to create obsess
 
 I also spend every free hour experimenting with AI & especially LLMs on what new features are possible to create, e.g. check out my 2 favourite and IMHO most impressive GPTs, for which I regularly receive congratulatory messages from happy users:
 
-## a) Adverstising Assistant – GPT
+## a) Advertising Assistant – GPT
 
 It uses over 300 of the best Marketing Campaigns (aka Cannes Lions Winners of 2024) as "few-shot examples" to enable every user to create world-class, goal-focused & effective 360° promos in seconds.
 
