@@ -9,6 +9,7 @@ I love utilising AI with my 20+ years of expertise in 8 domains to create obsess
 # 🧠 My USP: I create Moats for any Brand, Product, Service & Market.
 
 A moat, in business strategy, is a sustainable competitive advantage that protects a company's market position and profitability from competitors – just like medieval castle moats protected against invaders. The term was popularized by Warren Buffett, who prioritizes investing in companies with strong moats.
+<br>
 
 ## 🏰 Why are moats crucial for business success?
 
@@ -24,6 +25,7 @@ The stronger your moat, the more you can reinvest in widening it further, creati
 ### 4. 💎 Valuation Premium
 Companies with strong moats typically command higher valuations from investors who recognize their defensive qualities.
 
+<br>
 
 ## ⚠️ Key Challenge for Executives: Moats aren't static
 
