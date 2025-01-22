@@ -10,7 +10,7 @@ I love utilising AI with my 20+ years of expertise in 8 domains to create obsess
 
 # 🔬 Creative AI, LLM & Data Science Projects
 
-I spend every free hour experimenting with AI & especially LLMs on what new features are possible to create, e.g. check out my 2 favourite and IMHO most impressive GPTs, for which I regularly receive congratulatory messages from happy users, and you can use for free.
+I spend every free hour experimenting with AI & especially LLMs to find out what new beneficial tools can be createed, e.g. check out my 2 favourite & IMHO most impressive GPTs for free, for which I regularly receive congratulatory messages from happy users.
 
 <br>
 
