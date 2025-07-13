@@ -192,8 +192,8 @@ Extensive list of 150+ global brands: 1\&1, 360x, ACC Akut, Activision-Blizzard,
 
 
 ## Contact / Kontakt  
-| Channel | Link |  
-| --- | --- |  
+| Channel | Link | <br> 
+| --- | --- | <br>
 | Website / Webseite | <https://EliasKouloures.com> | <br>
 | Book a Call / Termin | <https://calendly.com/elias-kouloures/video-call> | <br>
 | LinkedIn | <https://linkedin.com/in/eliaskouloures> | <br>
