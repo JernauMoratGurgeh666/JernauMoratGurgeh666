@@ -194,16 +194,16 @@ Extensive list of 150+ global brands: 1\&1, 360x, ACC Akut, Activision-Blizzard,
 ## Contact / Kontakt  
 | Channel | Link |  
 | --- | --- |  
-| Website / Webseite | <https://EliasKouloures.com> |  
-| Book a Call / Termin | <https://calendly.com/elias-kouloures/video-call> |  
-| LinkedIn | <https://linkedin.com/in/eliaskouloures> |  
-| GitHub | <https://github.com/JernauMoratGurgeh666> |  
-| YouTube | <https://youtube.com/@EliasKouloures> |  
-| X aka Twitter | <https://x.com/GSV_SS> |  
-| Facebook | <https://www.facebook.com/A2Stein> | 
-| Instagram | <https://www.instagram.com/ek_loves_ai/> | 
-| TikTok | <https://www.tiktok.com/@elias_kouloures> | 
-| Email / E-Mail | <mailto:elias.kouloures@gmail.com> |  
-| Address / Adresse | 10117 Berlin, Germany |
+| Website / Webseite | <https://EliasKouloures.com> | <br>
+| Book a Call / Termin | <https://calendly.com/elias-kouloures/video-call> | <br>
+| LinkedIn | <https://linkedin.com/in/eliaskouloures> | <br>
+| GitHub | <https://github.com/JernauMoratGurgeh666> | <br>
+| YouTube | <https://youtube.com/@EliasKouloures> | <br>
+| X aka Twitter | <https://x.com/GSV_SS> | <br>
+| Facebook | <https://www.facebook.com/A2Stein> | <br>
+| Instagram | <https://www.instagram.com/ek_loves_ai/> | <br>
+| TikTok | <https://www.tiktok.com/@elias_kouloures> | <br>
+| Email / E-Mail | <mailto:elias.kouloures@gmail.com> | <br>
+| Address / Adresse | 10117 Berlin, Germany | <br>
 
 _Last-Updated: 2025-07-12 · License: CC-BY 4.0_
