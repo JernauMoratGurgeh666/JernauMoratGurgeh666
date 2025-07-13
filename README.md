@@ -184,22 +184,26 @@ Personal attributes that enhance professional performance, drawing from neurodiv
 
 Extensive list of 150+ global brands: 1\&1, 360x, ACC Akut, Activision-Blizzard, Adidas, Alka-Seltzer, AOK, ARRI, Aspirin, AUDI, AXA, BBDO, Beat Em Hub, Beats, BMW, BOSCH, Braun, Bulls Eye, BVB, Cab, Caesar, Caritas, Celebrations, Cinestar, COBI, Commerzbank, DATEV, DBK, Disney+, E.ON, eidos, Flaconi, Frolic, German Ministries (Traffic, Health, others), HIPP, HP, HSE, Huawei, IKEA, Innocent, Insomnia, Karstadt Sports, Kare, Konami, L’Oreal, LIDL, LIME, Mars, Mazda, McDonald's, Mercedes, Merck, MINI, Monster, M\&Ms, Niantic, Nissan, O2, OBI, Osram, Pepsi, Police, PONS, Punica, PŸUR, Samsung, Sanofi, Siemens, Sky, smart, Snickers, SportScheck, Tempo, Telekom, Thyssen Krupp, Universal Pictures, Vodafone, Volkswagen, Wrigley.
 
+
 ### Languages
 
 - German (Native).
 - English (Native).
- 
 
 
-## Contact / Kontakt  
-| Channel | Link |  
-| --- | --- |  
-| Website / Webseite | <https://EliasKouloures.com> |  
-| Book a Call / Termin | <https://calendly.com/elias-kouloures/video-call> |  
-| LinkedIn | <https://linkedin.com/in/eliaskouloures> |  
-| GitHub | <https://github.com/JernauMoratGurgeh666> |  
-| YouTube | <https://youtube.com/@EliasKouloures> |  
-| Email | <mailto:elias.kouloures@gmail.com> |  
+## Contact / Kontakt  
+| Channel | Link |  
+| --- | --- |  
+| Website / Webseite | <https://EliasKouloures.com> |  
+| Book a Call / Termin | <https://calendly.com/elias-kouloures/video-call> |  
+| LinkedIn | <https://linkedin.com/in/eliaskouloures> |  
+| GitHub | <https://github.com/JernauMoratGurgeh666> |  
+| YouTube | <https://youtube.com/@EliasKouloures> |  
+| X aka Twitter | <https://x.com/GSV_SS> |  
+| Facebook | <https://www.facebook.com/A2Stein> | 
+| Instagram | <https://www.instagram.com/ek_loves_ai/> | 
+| TikTok | <https://www.tiktok.com/@elias_kouloures> | 
+| Email / E-Mail | <mailto:elias.kouloures@gmail.com> |  
 | Address / Adresse | 10117 Berlin, Germany |
 
 _Last-Updated: 2025-07-12 · License: CC-BY 4.0_
